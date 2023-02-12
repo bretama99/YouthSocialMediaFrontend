@@ -1,0 +1,20 @@
+{
+  "title": "ኮቪድ ኣፕ",
+  "dashboard": "ዳሽ ቦርድ",
+  "homeScreen": "ዋና ስክሪን",
+  "setting": "መስተካከሊ",
+  "hello": "ሰላም",
+  "addQuestion": "ጥያቂ ጨምር",
+  "question": "ጥያቂ",
+  "questionLevel": "ጥያቂ ደረጃ",
+  "correctAnswer": "ትክክለኛ መልስ",
+  "category": "ምድብ",
+  "save": "ጨምር",
+  "enterQuestion": "ጥያቂ ያስገቡ",
+  "enterQuestionLevel": "ጥያቂ ደረጃ ይምረጡ",
+  "enterCorrectAnswer": "ትክክለኛ መልስ ይምረጡ",
+  "enterCategory": "ምድብ ይምረጡ",
+  "label": "ስያሚ",
+  "option": "ምርጫ"
+
+}
